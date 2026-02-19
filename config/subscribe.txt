@@ -1,8 +1,9 @@
 # 这是订阅源列表，每行一个订阅地址
 # This is a list of subscription sources, with one subscription address per line
 
-
-
+https://raw.githubusercontent.com/hahaer520/changku/refs/heads/main/GX_IPTV.m3u
+https://raw.githubusercontent.com/hahaer520/changku/refs/heads/main/alantang1977_iptv_api.m3u
+https://raw.githubusercontent.com/hahaer520/changku/refs/heads/main/岭南戏曲.txt
 
 
 [WHITELIST]
